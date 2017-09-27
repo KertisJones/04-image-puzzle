@@ -1,5 +1,9 @@
 # 04-image-puzzle
 
+I'll admit it. This is almost a complete rip from the sample solution that was given. But hey, all's fair in love, war and programming. To make up for this shameless act of plagiarism, I've replaced the colored squares with everyone's favorite year-old meme -- and an even older meme appears when you win! The background music is the classic tune from Tetris.
+
+----------------------------------------------------------------------------------------------------------------
+
 Your first pygame project! This is the fourth programming assignment for ILS-Z399. The requirements for this assignment are as follows:
 
 * Write a Python program for playing a simple "sliding puzzle" game
